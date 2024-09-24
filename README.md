@@ -6,4 +6,4 @@ Basicamente é um programa desenvolvido em python (que surpresa) utilizando a bi
 
 Você pode escolher entre 5 opções e o programa irá desenhar uma forma geometrica para você, basicamente isso.
 
-o arquivo "turtle_trabalho_deArtes.py" é o que funciona. A outra versão usa o PySimpleGUI para fazer uma interface, porém essa biblioteca é paga agora, e não funciona mais do jeito que fincionava na epoca que desenvolvi.
+o arquivo "turtle_trabalho_deArtes.py" é o que funciona. A outra versão usa o PySimpleGUI para fazer uma interface, porém essa biblioteca é paga agora, e não funciona mais do jeito que funcionava na epoca que desenvolvi.
